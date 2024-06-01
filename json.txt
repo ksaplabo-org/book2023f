@@ -1,0 +1,9 @@
+{
+	"rentalDate": null,
+	"isbn": "9784774176734",
+	"rentalStatus": null,
+	"description": "柔軟な開発を可能にするインフラ構築・運用の勘所。ブラウザでの設定もコマンド操作も丁寧に解説。",
+	"rentalUser": null,
+	"imgUrl": "https://books.google.com/books/content?id=6LayjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+	"title": "Amazon Web Services 実践入門"
+}
