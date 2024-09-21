@@ -201,6 +201,9 @@ VUE_APP_AWS_COGNITO_USERPOOL_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxx #4
     ``` 
    - ソースを開発ブランチに置く  
    　※amplify、dist、node_modules以外
+    ``` 
+    git add .
+    ```  
    - ローカルリポジトリにソースを反映 
     ``` 
     git commit -m 1st.
