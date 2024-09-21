@@ -146,7 +146,7 @@ VUE_APP_AWS_COGNITO_USERPOOL_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxx #4
 
  認証機能をAWSに反映する
   ``` 
-  amplify push 
+  amplify publish 
   ```  
 
 →プロジェクトに認証機能を追加できた
